@@ -10,3 +10,7 @@ Desarrollador de software. Llevo adelante **AlkiSYS** junto a [@Cuento-de-Risas]
 | --- | --- | --- | --- |
 | **AlkiSYS** | Proyecto principal, en desarrollo activo | Dueño del repositorio y desarrollador, junto a Cuento-de-Risas | Python |
 | **Postwik** | Planificación y generación de contenido para redes. En desarrollo | Colaborador junto a Cuento-de-Risas | JavaScript |
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ailin-pizarro)
