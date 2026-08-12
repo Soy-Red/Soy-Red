@@ -1,8 +1,8 @@
 # 👋 Hola, soy Red
 
-Desarrollador de software. Llevo adelante **AlkiSYS** junto a [@Cuento-de-Risas](https://github.com/Cuento-de-Risas): una plataforma de gestión de alquileres, estacionamiento, cobros y gastos. Trabajo sobre todo en el back-end con Python y en las interfaces web del panel.
+Llevo adelante **AlkiSYS** junto a [@Cuento-de-Risas](https://github.com/Cuento-de-Risas), una plataforma de gestión de alquileres, estacionamiento, cobros y gastos que corre sobre Cloud Run con Firestore.
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Google Cloud](https://img.shields.io/badge/GOOGLE%20CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Google Cloud](https://img.shields.io/badge/GOOGLE%20CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ## 🚀 Proyectos
 
