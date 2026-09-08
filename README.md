@@ -32,7 +32,7 @@ Plataforma web para administrar inmuebles, estacionamientos, flotas, gastos, cob
 
 Aplicación local para planificar, generar, revisar y publicar contenido de Facebook e Instagram con asistencia de IA.
 
-- **Mi rol:** colaboración en producto y desarrollo junto a [@Cuento-de-Risas](https://github.com/Cuento-de-Risas).
+- **Mi rol:** colaboración en producto y desarrollo junto a [@Rey-de-Amarillo](https://github.com/Rey-de-Amarillo).
 - **Stack:** Python, JavaScript, HTML/CSS y SQLite.
 - **Integraciones:** OpenAI API y Meta Graph API.
 
@@ -45,5 +45,8 @@ Aplicación local para planificar, generar, revisar y publicar contenido de Face
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ailin_Pizarro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ailin-pizarro)
-[![WorKraken](https://img.shields.io/badge/Web-WorKraken-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://workraken.com)
+<p>
+  <a href="https://www.linkedin.com/in/ailin-pizarro"><img src="./assets/linkedin.svg" alt="LinkedIn" width="48" height="48"></a>
+  &nbsp;&nbsp;
+  <a href="https://workraken.com"><img src="./assets/website.svg" alt="Sitio web de WorKraken" width="48" height="48"></a>
+</p>
