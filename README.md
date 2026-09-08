@@ -1,3 +1,5 @@
+[🇪🇸 Español](https://github.com/Soy-Red) · [🇬🇧 English](https://github.com/Soy-Red/Soy-Red/blob/main/README.en.md) · [🇫🇷 Français](https://github.com/Soy-Red/Soy-Red/blob/main/README.fr.md) · [🇮🇹 Italiano](https://github.com/Soy-Red/Soy-Red/blob/main/README.it.md) · [🇵🇹 Português](https://github.com/Soy-Red/Soy-Red/blob/main/README.pt.md)
+
 # Hola, soy Ailin 👋
 
 Soy cofundadora, CEO y CMO de [WorKraken](https://workraken.com), una plataforma que transforma tareas complejas de gestión en herramientas simples para pequeños negocios.
@@ -20,33 +22,18 @@ Trabajo en la intersección entre producto, estrategia y tecnología: lidero la 
 
 ## Proyectos
 
-### [WorKraken](https://workraken.com)
+| Proyecto | Descripción | Stack |
+| --- | --- | --- |
+| **[WorKraken](https://workraken.com)** | Plataforma web de gestión para pequeños negocios. **Mi rol:** cofundadora, CEO y CMO; estrategia, marketing, producto y desarrollo. | Python · Uvicorn/ASGI · JavaScript · HTML/CSS · Firebase · Firestore · Cloud Storage · Google Cloud Run · Docker |
+| **PostWik** | Aplicación para planificar, generar y publicar contenido con IA. **Mi rol:** colaboración en producto y desarrollo junto a [@Rey-de-Amarillo](https://github.com/Rey-de-Amarillo). | Python · JavaScript · HTML/CSS · SQLite · OpenAI API · Meta Graph API |
 
-Plataforma web para administrar inmuebles, estacionamientos, flotas, gastos, cobros y balances desde un solo lugar.
-
-- **Mi rol:** cofundadora, CEO y CMO; estrategia, marketing, producto y colaboración activa en desarrollo.
-- **Stack:** Python, Uvicorn/ASGI, JavaScript, HTML/CSS, Firebase Authentication, Firestore, Cloud Storage, Google Cloud Run y Docker.
-- **Integraciones:** Mercado Pago, Google Maps, OpenAI API y automatizaciones con servicios de Google Cloud.
-
-### PostWik
-
-Aplicación local para planificar, generar, revisar y publicar contenido de Facebook e Instagram con asistencia de IA.
-
-- **Mi rol:** colaboración en producto y desarrollo junto a [@Rey-de-Amarillo](https://github.com/Rey-de-Amarillo).
-- **Stack:** Python, JavaScript, HTML/CSS y SQLite.
-- **Integraciones:** OpenAI API y Meta Graph API.
-
-## Logros y experiencia
+## Achievements
 
 - Cofundé WorKraken y participo en su evolución desde la estrategia de negocio hasta la implementación técnica.
 - Contribuyo a una base de código de más de **1.800 commits**, con módulos de gestión, autenticación, pagos, almacenamiento y automatización.
 - Ayudé a llevar WorKraken a producción en [workraken.com](https://workraken.com) sobre Google Cloud.
 - Combino desarrollo de software, comunicación y marketing para convertir necesidades reales de pequeños negocios en productos digitales.
 
-## Contacto
+## Página web
 
-<p>
-  <a href="https://www.linkedin.com/in/ailin-pizarro"><img src="./assets/linkedin.svg" alt="LinkedIn" width="48" height="48"></a>
-  &nbsp;&nbsp;
-  <a href="https://workraken.com"><img src="./assets/website.svg" alt="Sitio web de WorKraken" width="48" height="48"></a>
-</p>
+<a href="https://workraken.com" title="Visitar el sitio web de WorKraken"><img src="https://raw.githubusercontent.com/Workraken/WorKraken/main/assets/WorKraken-logo.png" width="300" alt="Visitar el sitio web de WorKraken"></a>
