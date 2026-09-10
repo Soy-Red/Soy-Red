@@ -31,25 +31,6 @@ Trabalho na interseção entre produto, estratégia e tecnologia: lidero a comun
 
 <img src="https://raw.githubusercontent.com/Soy-Red/Soy-Red/main/assets/projects.pt.svg" width="1100" alt="Projeto: WorKraken · PostWik — O que faz, Meu papel, Stack">
 
-[WorKraken ↗](https://workraken.com) · [PostWik · @Rey-de-Amarillo ↗](https://github.com/Rey-de-Amarillo)
-
-<details>
-<summary>Ver detalhes dos projetos</summary>
-
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| **[WorKraken](https://workraken.com)** | Plataforma web de gestão para pequenas empresas. **Meu papel:** cofundadora, CEO e CMO; estratégia, marketing, produto e desenvolvimento. | Python · Uvicorn/ASGI · JavaScript · HTML/CSS · Firebase · Firestore · Cloud Storage · Google Cloud Run · Docker |
-| **PostWik** | Aplicativo para planejar, gerar e publicar conteúdo com IA. **Meu papel:** colaboração em produto e desenvolvimento com [@Rey-de-Amarillo](https://github.com/Rey-de-Amarillo). | Python · JavaScript · HTML/CSS · SQLite · OpenAI API · Meta Graph API |
-
-</details>
-
-## Trajetória profissional
-
-- Cofundei a WorKraken e participo de sua evolução, da estratégia de negócios à implementação técnica.
-- Contribuo para uma base de código com mais de **1.800 commits**, incluindo módulos de gestão, autenticação, pagamentos, armazenamento e automação.
-- Ajudei a colocar a WorKraken em produção em [workraken.com](https://workraken.com) com o Google Cloud.
-- Combino desenvolvimento de software, comunicação e marketing para transformar necessidades reais de pequenas empresas em produtos digitais.
-
 ## Site
 
 <a href="https://workraken.com" title="Visitar o site da WorKraken"><img src="https://raw.githubusercontent.com/Workraken/WorKraken/main/assets/WorKraken-logo.png" width="300" alt="Visitar o site da WorKraken"></a>
