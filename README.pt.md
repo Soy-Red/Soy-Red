@@ -1,4 +1,11 @@
-[🇪🇸 Español](https://github.com/Soy-Red) · [🇬🇧 English](https://github.com/Soy-Red/Soy-Red/blob/main/README.en.md) · [🇫🇷 Français](https://github.com/Soy-Red/Soy-Red/blob/main/README.fr.md) · [🇮🇹 Italiano](https://github.com/Soy-Red/Soy-Red/blob/main/README.it.md) · [🇵🇹 Português](https://github.com/Soy-Red/Soy-Red/blob/main/README.pt.md)
+<p align="center">
+  <a href="https://github.com/Soy-Red" title="Español"><img src="https://raw.githubusercontent.com/Soy-Red/Soy-Red/main/assets/flags/es.svg" width="54" height="54" alt="Español"></a>
+  <a href="https://github.com/Soy-Red/Soy-Red/blob/main/README.en.md" title="English"><img src="https://raw.githubusercontent.com/Soy-Red/Soy-Red/main/assets/flags/en.svg" width="54" height="54" alt="English"></a>
+  <a href="https://github.com/Soy-Red/Soy-Red/blob/main/README.it.md" title="Italiano"><img src="https://raw.githubusercontent.com/Soy-Red/Soy-Red/main/assets/flags/it.svg" width="54" height="54" alt="Italiano"></a>
+  <a href="https://github.com/Soy-Red/Soy-Red/blob/main/README.de.md" title="Deutsch"><img src="https://raw.githubusercontent.com/Soy-Red/Soy-Red/main/assets/flags/de.svg" width="54" height="54" alt="Deutsch"></a>
+  <a href="https://github.com/Soy-Red/Soy-Red/blob/main/README.fr.md" title="Français"><img src="https://raw.githubusercontent.com/Soy-Red/Soy-Red/main/assets/flags/fr.svg" width="54" height="54" alt="Français"></a>
+  <a href="https://github.com/Soy-Red/Soy-Red/blob/main/README.pt.md" title="Português"><img src="https://raw.githubusercontent.com/Soy-Red/Soy-Red/main/assets/flags/pt-active.svg" width="54" height="54" alt="Português"></a>
+</p>
 
 # Olá, sou Ailin 👋
 
@@ -22,12 +29,21 @@ Trabalho na interseção entre produto, estratégia e tecnologia: lidero a comun
 
 ## Projetos
 
+<img src="https://raw.githubusercontent.com/Soy-Red/Soy-Red/main/assets/projects.pt.svg" width="1100" alt="Projeto: WorKraken · PostWik — O que faz, Meu papel, Stack">
+
+[WorKraken ↗](https://workraken.com) · [PostWik · @Rey-de-Amarillo ↗](https://github.com/Rey-de-Amarillo)
+
+<details>
+<summary>Ver detalhes dos projetos</summary>
+
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
 | **[WorKraken](https://workraken.com)** | Plataforma web de gestão para pequenas empresas. **Meu papel:** cofundadora, CEO e CMO; estratégia, marketing, produto e desenvolvimento. | Python · Uvicorn/ASGI · JavaScript · HTML/CSS · Firebase · Firestore · Cloud Storage · Google Cloud Run · Docker |
 | **PostWik** | Aplicativo para planejar, gerar e publicar conteúdo com IA. **Meu papel:** colaboração em produto e desenvolvimento com [@Rey-de-Amarillo](https://github.com/Rey-de-Amarillo). | Python · JavaScript · HTML/CSS · SQLite · OpenAI API · Meta Graph API |
 
-## Achievements
+</details>
+
+## Trajetória profissional
 
 - Cofundei a WorKraken e participo de sua evolução, da estratégia de negócios à implementação técnica.
 - Contribuo para uma base de código com mais de **1.800 commits**, incluindo módulos de gestão, autenticação, pagamentos, armazenamento e automação.

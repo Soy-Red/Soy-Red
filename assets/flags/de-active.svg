@@ -1,0 +1,5 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><title>Deutsch</title><defs><linearGradient id="ring" x2="1" y2="1"><stop stop-color="#ffb09e"/><stop offset=".4" stop-color="#ff526f"/><stop offset="1" stop-color="#791c43"/></linearGradient><clipPath id="circle"><circle cx="32" cy="32" r="24"/></clipPath></defs><circle cx="32" cy="32" r="29" fill="#0d1117" stroke="url(#ring)" stroke-width="2.5"/><g clip-path="url(#circle)"><svg x="8" y="8" width="48" height="48" viewBox="0 0 512 512">
+  <path fill="#fc0" d="M0 341.3h512V512H0z"/>
+  <path fill="#000001" d="M0 0h512v170.7H0z"/>
+  <path fill="red" d="M0 170.7h512v170.6H0z"/>
+</svg></g></svg>
