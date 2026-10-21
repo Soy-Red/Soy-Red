@@ -9,7 +9,7 @@
 
 # Hallo, ich bin Ailin 👋
 
-Ich bin Mitgründerin, CEO und CMO von [WorKraken](https://workraken.com), einer Plattform, die komplexe Verwaltungsaufgaben in einfache Werkzeuge für kleine Unternehmen verwandelt.
+Ich bin Mitgründerin von [WorKraken](https://workraken.com), einer Plattform, die komplexe Verwaltungsaufgaben in einfache Werkzeuge für kleine Unternehmen verwandelt.
 
 Ich arbeite an der Schnittstelle von Produkt, Strategie und Technologie: Ich leite die Markenkommunikation und das Wachstum, beteilige mich an Produktentscheidungen und wirke aktiv an Backend-Entwicklung, Weboberflächen, Automatisierungen und Integrationen mit.
 
