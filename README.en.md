@@ -29,7 +29,7 @@ I work at the intersection of product, strategy and technology: I lead the brand
 
 ## Projects
 
-<img src="https://raw.githubusercontent.com/Soy-Red/Soy-Red/main/assets/projects.en.svg" width="1100" alt="Project: WorKraken · PostWik — What it does, My role, Stack">
+<img src="https://raw.githubusercontent.com/Soy-Red/Soy-Red/main/assets/projects.en.svg" width="1100" alt="Project: WorKraken · PostWik — What it does, My role, Stack · Grabador de pantalla de Linux">
 
 ## Website
 

@@ -29,7 +29,7 @@ Trabalho na interseção entre produto, estratégia e tecnologia: lidero a comun
 
 ## Projetos
 
-<img src="https://raw.githubusercontent.com/Soy-Red/Soy-Red/main/assets/projects.pt.svg" width="1100" alt="Projeto: WorKraken · PostWik — O que faz, Meu papel, Stack">
+<img src="https://raw.githubusercontent.com/Soy-Red/Soy-Red/main/assets/projects.pt.svg" width="1100" alt="Projeto: WorKraken · PostWik — O que faz, Meu papel, Stack · Grabador de pantalla de Linux">
 
 ## Site
 

@@ -30,7 +30,7 @@ Ich arbeite an der Schnittstelle von Produkt, Strategie und Technologie: Ich lei
 
 ## Projekte
 
-<img src="https://raw.githubusercontent.com/Soy-Red/Soy-Red/main/assets/projects.de.svg" width="1100" alt="Projekt: WorKraken · PostWik — Was es macht, Meine Rolle, Stack">
+<img src="https://raw.githubusercontent.com/Soy-Red/Soy-Red/main/assets/projects.de.svg" width="1100" alt="Projekt: WorKraken · PostWik — Was es macht, Meine Rolle, Stack · Grabador de pantalla de Linux">
 
 ## Website
 

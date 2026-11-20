@@ -29,7 +29,7 @@ Lavoro all'incrocio tra prodotto, strategia e tecnologia: guido la comunicazione
 
 ## Progetti
 
-<img src="https://raw.githubusercontent.com/Soy-Red/Soy-Red/main/assets/projects.it.svg" width="1100" alt="Progetto: WorKraken · PostWik — Cosa fa, Il mio ruolo, Stack">
+<img src="https://raw.githubusercontent.com/Soy-Red/Soy-Red/main/assets/projects.it.svg" width="1100" alt="Progetto: WorKraken · PostWik — Cosa fa, Il mio ruolo, Stack · Grabador de pantalla de Linux">
 
 ## Sito web
 
